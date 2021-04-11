@@ -1,2 +1,3 @@
-# BMI_Calculator
-Simple app to calculate BMI
+# BMI Calculator
+- Simple app which calculates your BMI
+- Built using MVC 
